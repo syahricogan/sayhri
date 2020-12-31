@@ -1,5 +1,7 @@
 const help = (prefix) => { 
-	return `                 
+	return `
+ *WELCOME TO SYAHRI-BOT*
+                 
 ┏━━━°❀ ❬ OWNER CIMMAND ❭ ❀°━━━┓
 ┃
 ┏❉ *${prefix}bc*
@@ -11,13 +13,6 @@ const help = (prefix) => {
 ┣➥ *${prefix}sticker*
 ┣➥ *${prefix}tsticker*
 ┣➥ *${prefix}nulis*
-┃
-┣━━━°❀ ❬ DONASI | BESTFREND ❭ ❀°━━━⊱
-┃
-┣➥ *${prefix}donasi*
-┣➥ *${prefix}Thanks To #Alfa📣*
-┣➥ *${prefix}Support Bot XPTN*
-┣➥ *${prefix}Web Api : xptnbotapi.herokuapp.com*
 ┃
 ┣━━━°❀ ❬ UPDATE COMMAND ❭ ❀°━━━⊱
 ┃
@@ -96,7 +91,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}url2img*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ ${prefix}*Follow IG* ~_xptn~
+┃ ${prefix}*Follow IG* ~_nsrstory~
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 exports.help = help
